@@ -24,6 +24,9 @@ export const Footer = () => {
             <Youtube className="w-5 h-5 sm:w-6 sm:h-6 text-lightText hover:text-moonlight cursor-pointer transition-colors" />
           </div>
         </div>
+        <div className="mt-8 text-center">
+          <p className="text-lightText text-sm">© 2025 DREAMKEY. All rights reserved.</p>
+        </div>
       </div>
     </footer>
   );
