@@ -25,7 +25,7 @@ export const BenefitsSection = () => {
         <h2 className="text-3xl md:text-4xl font-bold font-poppins text-darkText text-center mb-4">
           Unlock More Time for Your Life
         </h2>
-        <p className="text-xl font-greatVibes text-darkText/80 text-center mb-16 italic">
+        <p className="text-2xl md:text-3xl font-greatVibes text-darkText/80 text-center mb-16 italic">
           With endless opportunities
         </p>
         <div className="grid md:grid-cols-3 gap-8">
