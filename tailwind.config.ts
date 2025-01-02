@@ -19,7 +19,7 @@ export default {
     },
     extend: {
       colors: {
-        twilight: "#4A5164",
+        twilight: "#373B47", // Updated to match the image's background
         lavender: "#B6AFCF",
         moonlight: "#F1E9DA",
         lightText: "#F6F3ED",
