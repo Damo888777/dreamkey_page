@@ -11,7 +11,7 @@ export const HeroSection = () => {
           <span className="text-moonlight">Time with endless opportunities.</span>
         </h1>
         <p className="text-2xl md:text-3xl font-greatVibes text-lightText/90 mb-12 italic">
-          Start your dream life today
+          Master your dreams and gain more valuable time for your life
         </p>
         <button className="bg-gradient-to-r from-lavender to-moonlight text-darkText text-lg px-8 py-4 rounded-full hover:shadow-xl transform hover:scale-105 transition-all duration-300">
           Start Your Dream Life
