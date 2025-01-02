@@ -13,7 +13,7 @@ export const HeroSection = () => {
         <p className="text-xl sm:text-2xl md:text-3xl font-greatVibes text-lightText/90 mb-12 italic">
           Master your dreams and gain more valuable time for your life
         </p>
-        <button className="bg-gradient-to-r from-lavender to-moonlight text-darkText text-base sm:text-lg px-6 sm:px-8 py-3 sm:py-4 rounded-full hover:shadow-xl transform hover:scale-105 transition-all duration-300">
+        <button className="bg-gradient-to-r from-twilight to-darkText text-lightText text-base sm:text-lg px-6 sm:px-8 py-3 sm:py-4 rounded-full hover:shadow-xl hover:from-darkText hover:to-twilight transform hover:scale-105 transition-all duration-300 border border-lightText/20">
           Start Your Dream Life
         </button>
       </div>

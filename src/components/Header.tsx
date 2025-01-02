@@ -22,7 +22,7 @@ export const Header = () => {
           <a href="#benefits" className="text-lightText hover:text-moonlight transition-colors">Benefits</a>
           <a href="#download" className="text-lightText hover:text-moonlight transition-colors">Download</a>
         </nav>
-        <button className="bg-gradient-to-r from-lavender to-moonlight text-darkText px-6 py-2 rounded-full hover:shadow-lg transition-all duration-300">
+        <button className="bg-gradient-to-r from-twilight to-darkText text-lightText px-6 py-2 rounded-full hover:shadow-lg hover:from-darkText hover:to-twilight transition-all duration-300 border border-lightText/20">
           Get Started
         </button>
       </div>
