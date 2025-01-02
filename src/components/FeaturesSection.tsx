@@ -30,7 +30,7 @@ const features = [
 
 export const FeaturesSection = () => {
   return (
-    <section id="features" className="py-16 sm:py-20 bg-gradient-to-b from-twilight to-lavender">
+    <section id="features" className="py-16 sm:py-20 bg-gradient-to-b from-twilight to-twilight/80">
       <div className="container mx-auto px-4 sm:px-6">
         <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold font-poppins text-lightText text-center mb-12 sm:mb-16">
           Unlock Your Dream Potential
@@ -39,7 +39,7 @@ export const FeaturesSection = () => {
           {features.map((feature, index) => (
             <div
               key={index}
-              className="bg-white/10 backdrop-blur-sm rounded-xl p-4 sm:p-6 hover:transform hover:scale-105 transition-all duration-300"
+              className="bg-darkText/10 backdrop-blur-sm rounded-xl p-4 sm:p-6 hover:transform hover:scale-105 transition-all duration-300"
             >
               <div className="text-moonlight mb-4">{feature.icon}</div>
               <h3 className="text-lg sm:text-xl font-poppins font-semibold text-lightText mb-2">

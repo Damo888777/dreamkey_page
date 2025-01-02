@@ -1,6 +1,6 @@
 export const HeroSection = () => {
   return (
-    <section className="min-h-screen bg-hero-gradient flex items-center justify-center relative overflow-hidden px-4 sm:px-6">
+    <section className="min-h-screen bg-twilight flex items-center justify-center relative overflow-hidden px-4 sm:px-6">
       <div className="absolute inset-0 bg-[url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyBmaWxsPSIjRkZGIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIG9wYWNpdHk9Ii4wNSI+PGNpcmNsZSBjeD0iMTAwIiBjeT0iMTAwIiByPSIxIi8+PC9nPjwvc3ZnPg==')] opacity-50"></div>
       <div className="container mx-auto text-center relative animate-fade-up">
         <h1 className="text-3xl sm:text-4xl md:text-6xl lg:text-7xl font-bold font-poppins text-lightText mb-6 leading-tight">

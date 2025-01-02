@@ -19,11 +19,11 @@ export default {
     },
     extend: {
       colors: {
-        twilight: "#373B47", // Updated to match the image's background
-        lavender: "#B6AFCF",
-        moonlight: "#F1E9DA",
-        lightText: "#F6F3ED",
-        darkText: "#2C2B39",
+        twilight: "#373B47", // Dark slate blue from the app
+        lavender: "#B6AFCF", // Soft purple for gradients
+        moonlight: "#F1E9DA", // Light beige
+        lightText: "#F6F3ED", // Off-white text color
+        darkText: "#2C2B39", // Dark text color
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
         ring: "hsl(var(--ring))",
@@ -89,7 +89,7 @@ export default {
       },
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
-        "hero-gradient": "linear-gradient(to bottom right, #4A5164, #B6AFCF)",
+        "hero-gradient": "linear-gradient(to bottom right, #373B47, #2C2B39)",
       },
     },
   },
