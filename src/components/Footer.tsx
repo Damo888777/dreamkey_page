@@ -7,9 +7,6 @@ export const Footer = () => {
         <div className="grid md:grid-cols-3 gap-8 items-center">
           <div>
             <img src="/lovable-uploads/0de3b4f1-5b63-4160-9688-553bca27a930.png" alt="DreamKey Logo" className="h-12 w-auto mb-4" />
-            <p className="text-lightText/80 font-inter">
-              Your gateway to lucid dreaming and endless possibilities
-            </p>
           </div>
           <div className="flex justify-center space-x-6">
             <a href="#" className="text-lightText hover:text-moonlight transition-colors">Privacy Policy</a>
